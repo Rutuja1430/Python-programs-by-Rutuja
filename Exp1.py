@@ -5,3 +5,4 @@ print("\n----- Student Information -----\n")
 
 print("Name:", name)
 print("Age:", age)
+
